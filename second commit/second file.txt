@@ -1,1 +1,2 @@
 Esse arquivo já será enviado com o novo e-mail configurado no Git.
+Essa linha foi alterada após o commit do arquivo.
